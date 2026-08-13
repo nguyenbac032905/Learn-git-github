@@ -1,2 +1,2 @@
 # Cấu hình project
-# dev clone dự án
+# developer1 clone dự án
